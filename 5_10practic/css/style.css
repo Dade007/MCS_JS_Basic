@@ -2,3 +2,34 @@
 body {
 	background-color: lightgrey;
 }
+
+.bit {
+	width: 300px;
+	height: 30px;
+	border: solid 1px black;
+	background-color: red;
+	margin-left: 10px;
+
+}
+.ethere {
+	width: 300px;
+	height: 30px;
+	border: solid 1px black;
+	background-color: #9affe8;
+	margin-left: 10px;
+}
+.liteco {
+	width: 300px;
+	height: 30px;
+	border: solid 1px black;
+	background-color: yellow;
+	margin-left: 10px;
+}
+.heit {
+	margin-left: 10px;
+	font-size: 20pt;
+}
+.price {
+	margin-left: 10px;
+	
+}
